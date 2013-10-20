@@ -8,7 +8,9 @@ gem 'rails', '3.2.14'
 gem 'sqlite3'
 gem 'devise'
 gem 'omniauth'
+gem 'omniauth-weibo-oauth2'
 gem 'json'
+gem 'oauth'
 
 
 # Gems used only for assets and not required
